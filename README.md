@@ -19,4 +19,4 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-A cada dia que passa me apaixono mais pela tecnologia onde tenho total dedicação sempre focando em aprender cada vez mais procurando sempre por desafios e expandir os meus conhecimentos que possibilitem meu desenvolvimento intelectual e profissional.
+A cada dia que passa me apaixono mais pela tecnologia onde tenho total dedicação sempre focando em aprender cada vez mais. Além disso procuro sempre por desafios e expandir os meus conhecimentos que possibilitem meu desenvolvimento intelectual e profissional.
