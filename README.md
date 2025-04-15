@@ -12,6 +12,8 @@
 <p align="center">"Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero..." </p>
 <p>
     Olá, me chamo José Leonardo 👋. Sou desenvolvedor Java, apaixonado por tecnologia e formado em Análise e Desenvolvimento de Sistemas. Tenho experiência como desenvolvedor web e estou sempre em busca de novos aprendizados e desafios para evoluir profissionalmente.
+</p>
+<p>
     Atualmente, estou focado em me especializar cada vez mais no desenvolvimento de software, ampliando minha senioridade através de projetos práticos, estudos contínuos e dedicação total à área.
 </p>
 
