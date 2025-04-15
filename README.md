@@ -9,10 +9,10 @@
 
 ## BEM VINDO AO MEU GITHUB 
 
-<p align="center">"Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero..." ❤️ </p>
+<p align="center">"Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero..." </p>
 <p>
-    Olá me chamo José Leonardo 👋, sou desenvolvedor Java apaixonado por tecnologia. Sendo assim, cursei Análise e Desenvolvimento de Sistema e a cada dia que passa me apaixono mais pela tecnologia onde tenho total dedicação sempre focando em aprender cada vez mais e 
-    me especializar em desenvolvimento de software, pois já tenho experiência como desenvolvedor web e desejo aumentar aumentar minha senioridade conforme minhas novas experiência e dedicação.
+    Olá me chamo José Leonardo 👋, sou desenvolvedor Java, apaixonado por tecnologia e formado em Análise e Desenvolvimento de Sistemas. Tenho experiência como desenvolvedor web e estou sempre em busca de novos aprendizados e desafios para evoluir profissionalmente.
+    Atualmente, estou focado em me especializar cada vez mais no desenvolvimento de software, ampliando minha senioridade através de projetos práticos, estudos contínuos e dedicação total à área.
 </p>
 
 <div style="margin-bottom:100px">
